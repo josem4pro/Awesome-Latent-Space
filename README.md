@@ -113,6 +113,7 @@ Additionally, if you want to have any other issue, please add this wechat group.
 | 2025/12  | [ReLaX: Reasoning with Latent Exploration for Large Reasoning Models](https://www.arxiv.org/abs/2512.07558)                                                                | <img width="700" alt="image" src="img/vlm/2512_relax.png">     | -                                                             |
 | 2025/12  | [Mull-Tokens: Modality-Agnostic Latent Thinking](https://arxiv.org/abs/2512.10941)                                                                                         | <img width="700" alt="image" src="img/vlm/2512_mull.png">      | -                                                             |
 | 2025/12  | [Reasoning Within the Mind: Dynamic Multimodal Interleaving in Latent Space](https://arxiv.org/abs/2512.12623)                                                                                         | <img width="700" alt="image" src="img/vlm/2512_mind.png">      | [Github](https://github.com/eric-ai-lab/DMLR)                                                             |
+| 2025/12  | [Sketch-in-Latents: Eliciting Unified Reasoning in MLLMs](https://arxiv.org/abs/2512.16584)                                                                                         | <img width="700" alt="image" src="img/vlm/2512_SkiLa.png">      | [Github](https://github.com/TungChintao/SkiLa)                                                             |
 
 
 ### MAS-based
