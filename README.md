@@ -122,12 +122,13 @@ Additionally, if you want to have any other issue, please add this wechat group.
 
 
 ### VLA-based
-| Date     | Paper Title                                                                                                                                                                | Introduction                                                  | Code                                                      |
-|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|-----------------------------------------------------------|
-| 2025/07  | [ThinkAct: Vision-Language-Action Reasoning via Reinforced Visual Latent Planning](https://arxiv.org/abs/2507.16815)                                                       | <img width="700" alt="image" src="img/vla/2507_thinkact.png"> | [Github](https://jasper0314-huang.github.io/thinkact-vla) |
-| 2025/09  | [Latent Action Pretraining Through World Modeling](https://arxiv.org/abs/2509.18428)                                                                                       | <img width="700" alt="image" src="img/vla/2509_lawm.png">     | -                                                         |
-| 2025/12  | [Latent Chain-of-Thought World Modeling for End-to-End Autonomous Driving](https://arxiv.org/pdf/2512.10226)                                                               | <img width="700" alt="image" src="img/vla/2512_lc_drive.png"> | -                                                         |
-| 2025/12  | [LoLA: Long Horizon Latent Action Learning for General Robot Manipulation](https://arxiv.org/abs/2512.20166v1)                                                             | <img width="700" alt="image" src="img/vla/2512_lola.png">     | -                                                         |
+| Date     | Paper Title                                                                                                          | Introduction                                                  | Code                                                      |
+|----------|----------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|-----------------------------------------------------------|
+| 2025/07  | [ThinkAct: Vision-Language-Action Reasoning via Reinforced Visual Latent Planning](https://arxiv.org/abs/2507.16815) | <img width="700" alt="image" src="img/vla/2507_thinkact.png"> | [Github](https://jasper0314-huang.github.io/thinkact-vla) |
+| 2025/07  | [villa-X: Enhancing Latent Action Modeling in Vision-Language-Action Models](https://arxiv.org/abs/2507.23682)       | <img width="700" alt="image" src="img/vla/2507_villax.png">   | [Github](https://github.com/microsoft/villa-x)            |
+| 2025/09  | [Latent Action Pretraining Through World Modeling](https://arxiv.org/abs/2509.18428)                                 | <img width="700" alt="image" src="img/vla/2509_lawm.png">     | -                                                         |
+| 2025/12  | [Latent Chain-of-Thought World Modeling for End-to-End Autonomous Driving](https://arxiv.org/pdf/2512.10226)         | <img width="700" alt="image" src="img/vla/2512_lc_drive.png"> | -                                                         |
+| 2025/12  | [LoLA: Long Horizon Latent Action Learning for General Robot Manipulation](https://arxiv.org/abs/2512.20166v1)       | <img width="700" alt="image" src="img/vla/2512_lola.png">     | -                                                         |
 
 
 
