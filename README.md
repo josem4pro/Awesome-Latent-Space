@@ -10,6 +10,7 @@
     <a href="https://github.com/YU-deep/Awesome-Latent-Space/stargazers"><img src="https://img.shields.io/github/stars/YU-deep/Awesome-Latent-Space?style=social" alt="GitHub stars"></a>
     <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="MIT License"></a>
     <a href="CONTRIBUTING.md"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs welcome"></a>
+    <a href="img/static/wechat_group.jpg"><img src="https://img.shields.io/badge/Group-WeChat-07c160?logo=wechat&logoColor=white" alt="WeChat Group"></a>
 </p>
 
 This repository manually collects works in **latent space**, which will be continuously updated.
@@ -32,10 +33,7 @@ Here, we classify all the latent space based methods two categories, and sort by
 
 ## 🤝 Contributing
 We warmly welcome contributions of excellent resources you find via **pull request**. Please follow the instruction in **CONTRIBUTING.md** if you want to make one.
-Additionally, if you want to have any other issue, please add this wechat group.
-
-<img width="200" alt="image" src="img/static/wechat_group.jpg">
-
+Additionally, if you want to have any other issue, please add our wechat group.
 
 
 
