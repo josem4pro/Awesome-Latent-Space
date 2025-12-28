@@ -136,16 +136,18 @@ Additionally, if you want to have any other issue, please add our wechat group.
 |----------|----------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|-----------------------------------------------------------|
 | 2025/07  | [ThinkAct: Vision-Language-Action Reasoning via Reinforced Visual Latent Planning](https://arxiv.org/abs/2507.16815) | <img width="700" alt="image" src="img/vla/2507_thinkact.png"> | [Github](https://jasper0314-huang.github.io/thinkact-vla) |
 | 2025/07  | [Villa-X: Enhancing Latent Action Modeling in Vision-Language-Action Models](https://arxiv.org/abs/2507.23682)       | <img width="700" alt="image" src="img/vla/2507_villax.png">   | [Github](https://github.com/microsoft/villa-x)            |
+| 2025/09  | [Latent Action Pretraining Through World Modeling](https://arxiv.org/abs/2509.18428)                                 | <img width="700" alt="image" src="img/vla/2509_lawm.png">     | -                                                         |
+| 2025/12  | [Latent Chain-of-Thought World Modeling for End-to-End Autonomous Driving](https://arxiv.org/abs/2512.10226)         | <img width="700" alt="image" src="img/vla/2512_lc_drive.png"> | -                                                         |
 | 2025/12  | [LoLA: Long Horizon Latent Action Learning for General Robot Manipulation](https://arxiv.org/abs/2512.20166v1)       | <img width="700" alt="image" src="img/vla/2512_lola.png">     | -                                                         |
 
 
 
 ### World-Model
-| Date     | Paper Title                                                                                                     | Introduction                                                 | Code      |
-|----------|-----------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|-----------|
-| 2025/06  | [Video World Models with Long-term Spatial Memory](https://arxiv.org/pdf/2506.05284)                            | <img width="700" alt="image" src="img/wm/2506_ltsm.png">     | -         |
-| 2025/06  | [V-JEPA 2: Self-Supervised Video Models Enable Understanding, Prediction and Planning](https://arxiv.org/pdf/2506.09985) | <img width="700" alt="image" src="img/wm/2506_vjepa2.png">   | -         |
-| 2025/09  | [Latent Action Pretraining Through World Modeling](https://arxiv.org/abs/2509.18428)                            | <img width="700" alt="image" src="img/wm/2509_lawm.png">     | -         |
-| 2025/12  | [RELIC: Interactive Video World Model with Long-Horizon Memory](https://arxiv.org/abs/2512.04040)               | <img width="700" alt="image" src="img/wm/2512_relic.png">    | -         |
-| 2025/12  | [Latent Chain-of-Thought World Modeling for End-to-End Autonomous Driving](https://arxiv.org/pdf/2512.10226)    | <img width="700" alt="image" src="img/wm/2512_lc_drive.png"> | -         |
-| 2025/12  | [World Models Can Leverage Human Videos for Dexterous Manipulation](https://arxiv.org/pdf/2512.13644)           | <img width="700" alt="image" src="img/wm/2512_hvdm.png">     | -         |
+| Date     | Paper Title                                                                                                              | Introduction                                                 | Code  |
+|----------|--------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|-------|
+| 2025/06  | [Video World Models with Long-term Spatial Memory](https://arxiv.org/abs/2506.05284)                                     | <img width="700" alt="image" src="img/wm/2506_ltsm.png">     | -     |
+| 2025/06  | [V-JEPA 2: Self-Supervised Video Models Enable Understanding, Prediction and Planning](https://arxiv.org/abs/2506.09985) | <img width="700" alt="image" src="img/wm/2506_vjepa2.png">   | -     |
+| 2025/09  | [Latent Action Pretraining Through World Modeling](https://arxiv.org/abs/2509.18428)                                     | <img width="700" alt="image" src="img/wm/2509_lawm.png">     | -     |
+| 2025/12  | [RELIC: Interactive Video World Model with Long-Horizon Memory](https://arxiv.org/abs/2512.04040)                        | <img width="700" alt="image" src="img/wm/2512_relic.png">    | -     |
+| 2025/12  | [Latent Chain-of-Thought World Modeling for End-to-End Autonomous Driving](https://arxiv.org/abs/2512.10226)             | <img width="700" alt="image" src="img/wm/2512_lc_drive.png"> | -     |
+| 2025/12  | [World Models Can Leverage Human Videos for Dexterous Manipulation](https://arxiv.org/abs/2512.13644)                    | <img width="700" alt="image" src="img/wm/2512_hvdm.png">     | -     |
