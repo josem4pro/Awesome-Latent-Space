@@ -132,13 +132,16 @@ Additionally, if you want to have any other issue, please add our wechat group.
 
 
 ### Vision-Language-Action-Model
-| Date     | Paper Title                                                                                                          | Introduction                                                  | Code                                                      |
-|----------|----------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|-----------------------------------------------------------|
-| 2025/07  | [ThinkAct: Vision-Language-Action Reasoning via Reinforced Visual Latent Planning](https://arxiv.org/abs/2507.16815) | <img width="700" alt="image" src="img/vla/2507_thinkact.png"> | [Github](https://jasper0314-huang.github.io/thinkact-vla) |
-| 2025/07  | [Villa-X: Enhancing Latent Action Modeling in Vision-Language-Action Models](https://arxiv.org/abs/2507.23682)       | <img width="700" alt="image" src="img/vla/2507_villax.png">   | [Github](https://github.com/microsoft/villa-x)            |
-| 2025/09  | [Latent Action Pretraining Through World Modeling](https://arxiv.org/abs/2509.18428)                                 | <img width="700" alt="image" src="img/vla/2509_lawm.png">     | -                                                         |
-| 2025/12  | [Latent Chain-of-Thought World Modeling for End-to-End Autonomous Driving](https://arxiv.org/abs/2512.10226)         | <img width="700" alt="image" src="img/vla/2512_lc_drive.png"> | -                                                         |
-| 2025/12  | [LoLA: Long Horizon Latent Action Learning for General Robot Manipulation](https://arxiv.org/abs/2512.20166v1)       | <img width="700" alt="image" src="img/vla/2512_lola.png">     | -                                                         |
+| Date     | Paper Title                                                                                                           | Introduction                                                  | Code                                                      |
+|----------|-----------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|-----------------------------------------------------------|
+| 2025/05  | [UniVLA: Learning to Act Anywhere with Task-centric Latent Actions](https://arxiv.org/abs/2505.06111)                 | <img width="700" alt="image" src="img/vla/2505_univla.png">   | [Github](https://github.com/OpenDriveLab/UniVLA)          |
+| 2025/07  | [ThinkAct: Vision-Language-Action Reasoning via Reinforced Visual Latent Planning](https://arxiv.org/abs/2507.16815)  | <img width="700" alt="image" src="img/vla/2507_thinkact.png"> | [Github](https://jasper0314-huang.github.io/thinkact-vla) |
+| 2025/07  | [Villa-X: Enhancing Latent Action Modeling in Vision-Language-Action Models](https://arxiv.org/abs/2507.23682)        | <img width="700" alt="image" src="img/vla/2507_villax.png">   | [Github](https://github.com/microsoft/villa-x)            |
+| 2025/09  | [Latent Action Pretraining Through World Modeling](https://arxiv.org/abs/2509.18428)                                  | <img width="700" alt="image" src="img/vla/2509_lawm.png">     | -                                                         |
+| 2025/11  | [LatBot: Distilling Universal Latent Actions for Vision-Language-Action Models](https://www.arxiv.org/pdf/2511.23034) | <img width="700" alt="image" src="img/vla/2511_latbot.png">   | -                                                         | 
+| 2025/12  | [Latent Chain-of-Thought World Modeling for End-to-End Autonomous Driving](https://arxiv.org/abs/2512.10226)          | <img width="700" alt="image" src="img/vla/2512_lc_drive.png"> | -                                                         |
+| 2025/12  | [Motus: A Unified Latent Action World Model](https://arxiv.org/pdf/2512.13030)                                        | <img width="700" alt="image" src="img/vla/2512_motus.png">    | [Github](https://github.com/thu-ml/Motus)                 |
+| 2025/12  | [LoLA: Long Horizon Latent Action Learning for General Robot Manipulation](https://arxiv.org/abs/2512.20166v1)        | <img width="700" alt="image" src="img/vla/2512_lola.png">     | -                                                         |
 
 
 
