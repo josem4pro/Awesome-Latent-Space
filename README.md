@@ -20,7 +20,6 @@ This repository manually collects works in **latent space**, which will be conti
 **[2025/11/30]** We release the initial version!
 
 ## 🌟 Overview
-Here, we classify all the latent space based methods two categories, and sort by date in ascending order:
 - [📖 News](#-news)
 - [🌟 Overview](#-overview)
 - [🤝 Contributing](#-contributing)
@@ -80,6 +79,7 @@ Additionally, if you want to have any other issue, please add our wechat group.
 | 2025/10  | [KaVa: Latent Reasoning via Compressed KV-Cache Distillation](https://arxiv.org/abs/2510.02312)                                                                                                                | <img width="700" alt="image" src="img/llm/2510_kava.png">           | -                                                                                          |
 | 2025/10  | [Thinking on the Fly: Test-Time Reasoning Enhancement via Latent Thought Policy Optimization](https://arxiv.org/abs/2510.04182)                                                                                | <img width="700" alt="image" src="img/llm/2510_ltpo.png">           | [Github](https://github.com/ltpo2025/LTPO)                                                 |
 | 2025/10  | [LaDiR: Latent Diffusion Enhances LLMs for Text Reasoning](https://arxiv.org/abs/2510.04573)                                                                                                                   | <img width="700" alt="image" src="img/llm/2510_ladir.png">          | [Github](https://github.com/mk322/LaDiR)                                                   | 
+| 2025/10  | [Encode, Think, Decode: Scaling test-time reasoning with recursive latent thoughts](https://arxiv.org/abs/2510.07358)                                                                                          | <img width="700" alt="image" src="img/llm/2510_etd.png">            | -                                                                                          |
 | 2025/10  | [Parallel Test-Time Scaling for Latent Reasoning Models](https://arxiv.org/abs/2510.07745)                                                                                                                     | <img width="700" alt="image" src="img/llm/2510_agn.png">            | [Github](https://github.com/YRYangang/LatentTTS)                                           |
 | 2025/10  | [Unlocking Out-of-Distribution Generalization in Transformers via Recursive Latent Space Reasoning](https://arxiv.org/abs/2510.14095)                                                                          | <img width="700" alt="image" src="img/llm/2510_ood.png">            | [Github](https://github.com/Awni00/algorithmic-generalization-transformer-architectures)   |
 | 2025/10  | [Latent Reasoning in LLMs as a Vocabulary-Space Superposition](https://arxiv.org/abs/2510.15522)                                                                                                               | <img width="700" alt="image" src="img/llm/2510_latent_sft.png">     | [Github](https://github.com/DJC-GO-SOLO/Latent-SFT)                                        |
