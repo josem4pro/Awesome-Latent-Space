@@ -132,6 +132,8 @@ Additionally, if you want to have any other issue, please add our wechat group.
 | 2026/01  | [Forest Before Trees: Latent Superposition for Efficient Visual Reasoning](https://arxiv.org/abs/2601.06803)                                                               | <img width="700" alt="image" src="img/vlm/2601_laser.png">       | [Github](https://github.com/ybb6/laser)                       |
 | 2026/01  | [Controlling Multimodal Conversational Agents with Coverage-Enhanced Latent Actions](https://arxiv.org/abs/2601.07516)                                                     | <img width="700" alt="image" src="img/vlm/2601_controlling.png"> | -                                                             |
 | 2026/01  | [LaViT: Aligning Latent Visual Thoughts for Multi-modal Reasoning](https://arxiv.org/abs/2601.10129)                                                                       | <img width="700" alt="image" src="img/vlm/2601_lavit.png">       | [Github](https://github.com/Svardfox/LaViT)                   |
+| 2026/01  | [Render-of-Thought: Rendering Textual Chain-of-Thought as Images for Visual Latent Reasoning](https://www.arxiv.org/abs/2601.14750)                                                                       | <img width="700" alt="image" src="img/vlm/2601_rot.png">       | [Github](https://github.com/TencentBAC/RoT)                   |
+
 
 ### Multi-Agent-System
 | Date     | Paper Title                                                                                                                                               | Introduction                                                     | Code                                             |
